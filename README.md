@@ -46,16 +46,16 @@ The simulation was written by Georgina Obehi Dibua. I added some routines to mak
     <tbody>
         <tr>
             <td>
-                double
+                **double**
             </td>
             <td>
-                inRange(double low, double high, double seed)</br>
+                **inRange** (double low, double high, double seed)</br>
                 Returns a random number between low and high.
             </td>
         </tr>
         <tr>
             <td>
-                void
+                **void**
             </td>
             <td>
                 resetParams()</br>
