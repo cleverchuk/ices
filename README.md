@@ -40,7 +40,6 @@ Sintering is a process of compacting two or more particle powder into single sol
 #### Simulation & Parameter Search
 The simulation was written by **Georgina Obehi Dibua** in C++. I added some routines to make it work for the purpose of parameter value search. The following table has information about the added routines.
 
-```C
 Modifier | Method and Description
 --- | --- 
 **double** | **inRange**(double low, double high, double seed)<br/>`Returns a random number between low and high inclusive`
@@ -51,9 +50,8 @@ Modifier | Method and Description
 
 #### Visualization
 Visualization involved reading the data and plotting it and it was written in Python using Matplotlib(Could have used VTK). The following table has information about the functions.
-```
 
-```python
+
 Modifier |Method and Description
 --- | ---
 def | **getnumzeros**(vector)<br/>`Returns the number of zeroes in the vector`
@@ -71,4 +69,3 @@ def | **writtable**(filename, writtable)<br/>`Writes writtable data to file with
 def | **readable**(filename)<br/>`Reads data from file with name filename`
 def | **multijob**(fname)<br/>`Multi process job`
 def | **buildCmd**(args)<br/>`builds the command`
-```
