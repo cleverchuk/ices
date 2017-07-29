@@ -1,11 +1,11 @@
 ## Phase Field Modelling of nanoparticle sintering
 ### Introduction
-My project involved simulating, visualizing and obtaining parameters used to study nano-particle sintering using the phase field model.
-Sintering is a process of compacting two or more particle powder into single solid at high temperatures, but below the particles’ melting points. This process is used in powder metallurgy to produce high strength and durable materials. To gain understand into how this process takes place in a nano-scale, a phase field modeling approach is used to study the evolution of the microstructures during sintering. Phase field is a set of values of a single variable called order parameter that represent the entire state of the microstructure during sintering[1]. Phase field has proven to be a good model in  modelling sintering because it enables the computational simulation of microstructure evolution without making restrictive assumptions. This feature of the phase field model  makes it an attractive approach to study nano-scale sintering. Computational simulation of nano-scale sintering is presented.
+My project involved simulating, visualizing and obtaining parameters used to study nanoparticle sintering using the phase field model.
+Sintering is a process of compacting two or more particle powder into single solid at high temperatures, but below the particles’ melting points. This process is used in powder metallurgy to produce high strength and durable materials. To gain understand into how this process takes place in a nanoscale, a phase field modeling approach is used to study the evolution of the microstructures during sintering. Phase field is a set of values of a single variable called order parameter that represent the entire state of the microstructure during sintering[1]. Phase field has proven to be a good model in  modelling sintering because it enables the computational simulation of microstructure evolution without making restrictive assumptions. This feature of the phase field model  makes it an attractive approach to study nanoscale sintering. Computational simulation of nanoscale sintering is presented.
 
 #### Goal
-* The **motivation** of this project is to understand the temporal evolution of nano-scale sintering.
-* The project **objective** is to successfully perform a 3D simulation and visualization of nano-scale particle sintering using the Phase Field Model.
+* The **motivation** of this project is to understand the temporal evolution of nanoscale sintering.
+* The project **objective** is to successfully perform a 3D simulation and visualization of nanoscale particle sintering using the Phase Field Model.
 
 #### Approach
 
@@ -23,7 +23,7 @@ Sintering is a process of compacting two or more particle powder into single sol
 
 ### Summary
 **Accomplishments**
-1. Temporal growth of nano particle sintering was successfully simulated yielding insights into how particle microstructures evolve during sintering.
+1. Temporal growth of nanoparticle sintering was successfully simulated yielding insights into how particle microstructures evolve during sintering.
 2. Most important observation is change in density of individual particles as it sinters but the overall density of the system remains relatively constant as it evolves.
 
 **Acknowledgement**
