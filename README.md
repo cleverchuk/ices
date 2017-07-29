@@ -49,8 +49,7 @@ The simulation was written by Georgina Obehi Dibua. I added some routines to mak
                 <strong>double</strong>
             </td>
             <td>
-                <strong>inRange</strong>(double low, double high, double seed)
-                
+                <strong>inRange</strong>(double low, double high, double seed)                
                 Returns a random number between low and high.
             </td>
         </tr>
@@ -59,8 +58,7 @@ The simulation was written by Georgina Obehi Dibua. I added some routines to mak
                 <strong>void</strong>
             </td>
             <td>
-                <strong>resetParams</strong>()
-                
+                <strong>resetParams</strong>()                
                 Resets simulation parameters to default values.
             </td>
         </tr>
