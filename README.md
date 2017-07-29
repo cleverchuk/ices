@@ -8,20 +8,20 @@ The motivation of this project is to understand the temporal evolution of nano-s
 The project objective is to successfully perform a 3D simulation and visualization of nano-scale particle sintering using the Phase Field Model.
 #### Approach
 **Mass Transport Phenomena**
-*Grain boundary diffusion
-*Surface diffusion
-*Volume diffusion
+* Grain boundary diffusion
+* Surface diffusion
+* Volume diffusion
 **Methods**
-*Phase field model
-*Finite difference method
+* Phase field model
+* Finite difference method
 
 ### Result
 ![GIF](https://github.com/CleverChuk/ICES/blob/master/images/simulation.gif)
 
 ### Summary
 **Accomplishments**
-. Temporal growth of nano particle sintering was successfully simulated yielding insights into how particle microstructures evolve during sintering.
-. Most important observation is change in density of individual particles as it sinters but the overall density of the system remains relatively constant as it evolves.
+1. Temporal growth of nano particle sintering was successfully simulated yielding insights into how particle microstructures evolve during sintering.
+2. Most important observation is change in density of individual particles as it sinters but the overall density of the system remains relatively constant as it evolves.
 
 #### Simulation
 ```C++
