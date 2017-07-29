@@ -11,6 +11,7 @@ The project objective is to successfully perform a 3D simulation and visualizati
 * Grain boundary diffusion
 * Surface diffusion
 * Volume diffusion
+
 **Methods**
 * Phase field model
 * Finite difference method
