@@ -21,8 +21,6 @@ Sintering is a process of compacting two or more particle powder into single sol
 ### Result
 <img src="https://github.com/CleverChuk/ices/blob/master/images/simulation.gif" alt="gif"/>
 
-![a gif](https://github.com/CleverChuk/ices/blob/master/images/simulation.gif)
-
 ### Summary
 **Accomplishments**
 1. Temporal growth of nano particle sintering was successfully simulated yielding insights into how particle microstructures evolve during sintering.
