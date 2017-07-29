@@ -19,7 +19,7 @@ Sintering is a process of compacting two or more particle powder into single sol
 * Finite difference method
 
 ### Result
-[a link](https://github.com/CleverChuk/ICES/blob/master/images/simulation.gif)
+[a gif](https://github.com/CleverChuk/ices/blob/master/images/simulation.gif)
 
 ### Summary
 **Accomplishments**
