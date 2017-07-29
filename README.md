@@ -38,10 +38,11 @@ The project objective is to successfully perform a 3D simulation and visualizati
 The simulation was written by Georgina Obehi Dibua. I added some routines to make it work the purpose of parameter value search. The important.
 <table>
     <thead>
-        <th>Modifier</th>
-        <th>Method and Description</th>
-    </thead>
-    
+        <tr>            
+            <th>Modifier</th>
+            <th>Method and Description</th>
+        </tr>
+    </thead>    
     <tbody>
         <tr>
             <td>
@@ -51,8 +52,7 @@ The simulation was written by Georgina Obehi Dibua. I added some routines to mak
                 Foo
             </td>
         </tr>
-    </tbody>
-    
+    </tbody>    
 </table>
 ```C++
 
