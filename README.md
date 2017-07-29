@@ -65,7 +65,7 @@ def | **getcoords**(data, xsize, ysize, zsize)<br/>`Generates the x,y,z coordina
 def | **plot**(coords, fig, ax, start = 0, count = 10,fcolor = None,  multijob = (False,"filename"))<br/>`plots the coords`
 def | **readsingle**(file, offset = 0, ndata = 44, dtype='d')<br/>`Reads ndata  of type dtype from file using offset as the byte offset to control read location.`
 def | **process**(rho, eta)<br/>`Returns the element by element  product of two vectors.`
-def | **writtable**(filename, writtable)<br/>`Writes writtable data to file with name filename.`
+def | **writable**(filename, writtable)<br/>`Writes writtable data to file with name filename.`
 def | **readable**(filename)<br/>`Reads data from file with name filename`
 def | **multijob**(fname)<br/>`Multi process job`
 def | **buildCmd**(args)<br/>`builds the command`
