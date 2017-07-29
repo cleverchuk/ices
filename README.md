@@ -39,7 +39,8 @@ The simulation was written by Georgina Obehi Dibua. I added some routines to mak
 
 Modifiers | Methods and Description
 --- | --- 
-**double** | **inRange**(double low, double high, double seed)... `Returns a random number between low and high inclusive`
+**double** | **inRange**(double low, double high, double seed)
+`Returns a random number between low and high inclusive`
 **void** | **resetParams**()
 **void** | **resetRho**(double* rho,double* newrho, double** eta, int Size)
 
