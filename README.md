@@ -49,7 +49,7 @@ Modifier | Method and Description
 **bool** | **modify**(const double* sumrho, double* param, double* lowerbound, double* upperbound, const double* maximum, double* t, const int master = 0)<br/>`Searches for the maximum parameter value`
 
 #### Visualization
-Visualization involved reading the data and plotting it and it was written in Python using Matplotlib(Could have used VTK). The following table has information about the functions.
+Visualization involved reading the data and plotting it. It was written in Python using Matplotlib(Could have used VTK). The following table has information about the functions.
 
 
 Modifier |Method and Description
