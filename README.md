@@ -34,21 +34,26 @@ The project objective is to successfully perform a 3D simulation and visualizati
 [1] Qin, R. S., and H. K. Bhadeshia. "Phase Field Method." Review. n.d.: n. pag. Web. 20 May 2017.
 
 # Code Blocks
-#### Simulation
-The simulation was written by Georgina Obehi Dibua. I added some routines to make it work the purpose of parameter value search. The important.
+#### Simulation & Parameter Search
+The simulation was written by **Georgina Obehi Dibua** in C++. I added some routines to make it work for the purpose of parameter value search. The following table has information about the added routines.
 
-Modifiers | Methods and Description
+Modifiers | Method and Description
 --- | --- 
 **double** | **inRange**(double low, double high, double seed)<br/>`Returns a random number between low and high inclusive`
 **void** | **resetParams**()<br/> `Sets parameters' values to default`
 **void** | **resetRho**(double* rho,double* newrho, double** eta, int Size)<br/>`Resets the density and order parameter values`
-**void** | **reassign**(constants* cons, int count, ...)`Sets parameter values to new values`
-**bool** | **modify**(const double* sumrho, double* param, double* lowerbound, double* upperbound, const double* maximum, double* t, const int master = 0)`searches for the maximum parameter value`
+**void** | **reassign**(constants* cons, int count, ...)<br/>`Sets parameter values to new values`
+**bool** | **modify**(const double* sumrho, double* param, double* lowerbound, double* upperbound, const double* maximum, double* t, const int master = 0)</br>`searches for the maximum parameter value`
 
 #### Visualization
+Visualization involved reading the data and plotting it and it was written in Python using Matplotlib(Could have used VTK). The following table has information about the functions.
+
+|Method and Description
+| ---
+| def **getnumzeros**(vector)<br/>`Returns the number of zeroes in the vector`
 
 
-#### Parameter Search
+
 
 
 
