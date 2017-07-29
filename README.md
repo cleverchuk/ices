@@ -38,7 +38,7 @@ Sintering is a process of compacting two or more particle powder into single sol
 
 # Code Blocks
 #### Simulation & Parameter Search
-The simulation was written by **Georgina Obehi Dibua** in C++. I added some routines to make it work for the purpose of parameter value search. The following table has information about the added routines.
+The simulation program was written by **Georgina Obehi Dibua** in C++. I added some routines to make it work for the purpose of parameter value search. The following table has information about the added routines.
 
 Modifier | Method and Description
 --- | --- 
