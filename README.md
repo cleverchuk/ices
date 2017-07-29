@@ -28,8 +28,8 @@ Sintering is a process of compacting two or more particle powder into single sol
 
 **Acknowledgement**
 
-* Institute for Computational Engineering and Sciences
-* Department of Mechanical Engineering
+* Institute for Computational Engineering and Sciences, UT Austin.
+* Department of Mechanical Engineering, UT Austin.
 * Dr M. Cullinan
 * Georgina Obehi Dibua
 
