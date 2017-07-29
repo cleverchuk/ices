@@ -5,7 +5,7 @@ Sintering is a process of compacting two or more particle powder into single sol
 
 #### Goal
 * The **motivation** of this project is to understand the temporal evolution of nano-scale sintering.
-The project **objective** is to successfully perform a 3D simulation and visualization of nano-scale particle sintering using the Phase Field Model.
+* The project **objective** is to successfully perform a 3D simulation and visualization of nano-scale particle sintering using the Phase Field Model.
 #### Approach
 **Mass Transport Phenomena**
 * Grain boundary diffusion
