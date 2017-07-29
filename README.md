@@ -8,6 +8,7 @@ Sintering is a process of compacting two or more particle powder into single sol
 * The project **objective** is to successfully perform a 3D simulation and visualization of nano-scale particle sintering using the Phase Field Model.
 
 #### Approach
+
 **Mass Transport Phenomena**
 * Grain boundary diffusion
 * Surface diffusion
