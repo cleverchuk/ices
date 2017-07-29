@@ -50,10 +50,10 @@ Visualization involved reading the data and plotting it and it was written in Py
 
 Modifier |Method and Description
 --- | ---
-None | def **getnumzeros**(vector)<br/>`Returns the number of zeroes in the vector`
-None | def **readRow**(filename)<br/>`Reads a single line`
-None | def **getProduct**(row)<br/>`Returns an array of the products of first element and the rest of the elements in row`
-None | def **parseData**(filename)<br/>`Return a tuple of a m by n matrix of data from a text file and number of lines read`
+def | **getnumzeros**(vector)<br/>`Returns the number of zeroes in the vector`
+def | **readRow**(filename)<br/>`Reads a single line`
+def | **getProduct**(row)<br/>`Returns an array of the products of first element and the rest of the elements in row`
+def | **parseData**(filename)<br/>`Return a tuple of a m by n matrix of data from a text file and number of lines read`
 
 
 
