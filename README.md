@@ -37,7 +37,7 @@ The project objective is to successfully perform a 3D simulation and visualizati
 #### Simulation & Parameter Search
 The simulation was written by **Georgina Obehi Dibua** in C++. I added some routines to make it work for the purpose of parameter value search. The following table has information about the added routines.
 
-Modifiers | Method and Description
+Modifier | Method and Description
 --- | --- 
 **double** | **inRange**(double low, double high, double seed)<br/>`Returns a random number between low and high inclusive`
 **void** | **resetParams**()<br/> `Sets parameters' values to default`
@@ -48,9 +48,12 @@ Modifiers | Method and Description
 #### Visualization
 Visualization involved reading the data and plotting it and it was written in Python using Matplotlib(Could have used VTK). The following table has information about the functions.
 
-|Method and Description
-| ---
-| def **getnumzeros**(vector)<br/>`Returns the number of zeroes in the vector`
+Modifier |Method and Description
+--- | ---
+None | def **getnumzeros**(vector)<br/>`Returns the number of zeroes in the vector`
+None | def **readRow**(filename)<br/>`Reads a single line`
+None | def **getProduct**(row)<br/>`Returns an array of the products of first element and the rest of the elements in row`
+None | def **parseData**(filename)<br/>`Return a tuple of a m by n matrix of data from a text file and number of lines read`
 
 
 
