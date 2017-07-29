@@ -37,9 +37,22 @@ The project objective is to successfully perform a 3D simulation and visualizati
 #### Simulation
 The simulation was written by Georgina Obehi Dibua. I added some routines to make it work the purpose of parameter value search. The important.
 <table>
-    <tr>
-        <td>Foo</td>
-    </tr>
+    <thead>
+        <th>Modifier</th>
+        <th>Method and Description</th>
+    </thead>
+    
+    <tbody>
+        <tr>
+            <td>
+                Foo
+            </td>
+            <td>
+                Foo
+            </td>
+        </tr>
+    </tbody>
+    
 </table>
 ```C++
 
