@@ -40,8 +40,10 @@ The simulation was written by Georgina Obehi Dibua. I added some routines to mak
 Modifiers | Methods and Description
 --- | --- 
 **double** | **inRange**(double low, double high, double seed)<br/>`Returns a random number between low and high inclusive`
-**void** | **resetParams**()<br/> `Resets parameters' values to default`
+**void** | **resetParams**()<br/> `Sets parameters' values to default`
 **void** | **resetRho**(double* rho,double* newrho, double** eta, int Size)<br/>`Resets the density and order parameter values`
+**void** | **reassign**(constants* cons, int count, ...)`Sets parameter values to new values`
+**bool** | **modify**(const double* sumrho, double* param, double* lowerbound, double* upperbound, const double* maximum, double* t, const int master = 0)`searches for the maximum parameter value`
 
 #### Visualization
 
