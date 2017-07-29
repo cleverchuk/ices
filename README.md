@@ -12,6 +12,7 @@ Sintering is a process of compacting two or more particle powder into single sol
 [//] <> ![time 300](https://github.com/CleverChuk/ICES/blob/master/images/fullT300.png)
 [//] <> ![time 350](https://github.com/CleverChuk/ICES/blob/master/images/fullT350.png)
 [//] <> ![time 400](https://github.com/CleverChuk/ICES/blob/master/images/fullT400.png)
+![GIF](https://github.com/CleverChuk/ICES/blob/master/images/simulation.gif)
 
 ### Simulation
 ```C++
