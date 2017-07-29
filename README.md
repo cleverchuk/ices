@@ -24,6 +24,16 @@ The project objective is to successfully perform a 3D simulation and visualizati
 1. Temporal growth of nano particle sintering was successfully simulated yielding insights into how particle microstructures evolve during sintering.
 2. Most important observation is change in density of individual particles as it sinters but the overall density of the system remains relatively constant as it evolves.
 
+**Acknowledgement**
+*Department of Mechanical Engineering
+*Institute for Computational Engineering and Sciences
+*Dr M. Cullinan
+*Georgina Obehi Dibua
+
+### References
+[1] Qin, R. S., and H. K. Bhadeshia. "Phase Field Method." Review. n.d.: n. pag. Web. 20 May 2017.
+
+# Code Blocks
 #### Simulation
 ```C++
 
@@ -38,5 +48,5 @@ The project objective is to successfully perform a 3D simulation and visualizati
 
 ```
 
-### References
+
 
