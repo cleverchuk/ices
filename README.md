@@ -54,8 +54,7 @@ def | **getnumzeros**(vector)<br/>`Returns the number of zeroes in the vector`
 def | **readRow**(filename)<br/>`Reads a single line`
 def | **getProduct**(row)<br/>`Returns an array of the products of first element and the rest of the elements in row`
 def | **parseData**(filename)<br/>`Return a tuple of a m by n matrix of data from a text file and number of lines read`
-def | **unpack**(matrix)<br/>`unpacks the matrix so that each column represent a single particle.
-    returns the new matrix`
+def | **unpack**(matrix)<br/>`unpacks the matrix so that each column represent a single particle. Returns the new matrix`
 def | **genColor**(n = 1, manager = None)<br/>`Generates n hexadecimal color codes.`
 def | **readBinary**(fname,fmt,bsize)<br/>`Reads data from a data file.` 
 def | **getcoords**(data, xsize, ysize, zsize)<br/>`Generates the x,y,z coordinate for data`
