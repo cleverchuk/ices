@@ -46,19 +46,19 @@ The simulation was written by Georgina Obehi Dibua. I added some routines to mak
     <tbody>
         <tr>
             <td>
-                **double**
+                <strong>double</strong>
             </td>
             <td>
-                **inRange** (double low, double high, double seed)</br>
+                <strong>inRange</strong>(double low, double high, double seed)</br>
                 Returns a random number between low and high.
             </td>
         </tr>
         <tr>
             <td>
-                **void**
+                <strong>void</strong>
             </td>
             <td>
-                resetParams()</br>
+                <strong>resetParams</strong>()</br>
                 Resets simulation parameters to default values.
             </td>
         </tr>
