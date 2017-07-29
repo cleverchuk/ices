@@ -6,16 +6,16 @@ Sintering is a process of compacting two or more particle powder into single sol
 ### Simulation
 ```C++
 
-```C++
+```
 ### Visualization
 ```python
 
-```python
+```
 
 ### Parameter Search
 ```python
 
-```python
+```
 
 ### Support or Contact
 
