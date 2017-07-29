@@ -27,10 +27,11 @@ Sintering is a process of compacting two or more particle powder into single sol
 2. Most important observation is change in density of individual particles as it sinters but the overall density of the system remains relatively constant as it evolves.
 
 **Acknowledgement**
-*Department of Mechanical Engineering
-*Institute for Computational Engineering and Sciences
-*Dr M. Cullinan
-*Georgina Obehi Dibua
+
+* Institute for Computational Engineering and Sciences
+* Department of Mechanical Engineering
+* Dr M. Cullinan
+* Georgina Obehi Dibua
 
 ### References
 [1] Qin, R. S., and H. K. Bhadeshia. "Phase Field Method." Review. n.d.: n. pag. Web. 20 May 2017.
