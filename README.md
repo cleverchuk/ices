@@ -36,40 +36,9 @@ The project objective is to successfully perform a 3D simulation and visualizati
 # Code Blocks
 #### Simulation
 The simulation was written by Georgina Obehi Dibua. I added some routines to make it work the purpose of parameter value search. The important.
-<table>
-    <thead>
-        <tr>            
-            <th>Modifier</th>
-            <th>Method and Description</th>
-        </tr>
-    </thead>    
-    <tbody>
-        <tr>
-            <td>
-                <strong>double</strong>
-            </td>
-            <td>
-                <strong>inRange</strong>(double low, double high, double seed)
-                Returns a random number between low and high.
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <strong>void</strong>
-            </td>
-            <td>
-                <strong>resetParams</strong>()
-                Resets simulation parameters to default values.
-            </td>
-        </tr>
-        <tr>
-            <td>
-            </td>
-            <td>
-            </td>
-        </tr>
-    </tbody>    
-</table>
+Modifiers|Methods and Description
+---------|-----------------------
+
 
 
 #### Visualization
