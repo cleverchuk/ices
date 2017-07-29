@@ -44,7 +44,7 @@ Modifier | Method and Description
 --- | --- 
 **double** | **inRange**(double low, double high, double seed)<br/>`Returns a random number between low and high inclusive`
 **void** | **resetParams**()<br/> `Sets parameters' values to default`
-**void** | **resetRho**(double* rho,double* newrho, double** eta, int Size)<br/>`Resets the density and order parameter values`
+**void** | **resetRho**(double* rho,double* newrho, double** eta, int Size)<br/>`Sets the density and order parameter values`
 **void** | **reassign**(constants* cons, int count, ...)<br/>`Sets parameter values to new values`
 **bool** | **modify**(const double* sumrho, double* param, double* lowerbound, double* upperbound, const double* maximum, double* t, const int master = 0)<br/>`searches for the maximum parameter value`
 
