@@ -41,6 +41,10 @@ Modifiers | Methods and Description
 **double** | **inRange**(double low, double high, double seed)
 **void** | **resetParams**()
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
 
 #### Visualization
 
