@@ -71,10 +71,3 @@ def | **writable**(filename, writtable)<br/>`Writes writtable data to file with 
 def | **readable**(filename)<br/>`Reads data from file with name filename`
 def | **multijob**(fname)<br/>`Multiple process job`
 def | **buildCmd**(args)<br/>`Builds the command`
-
-
-```yaml
-favicon:
-  URL:
-   - https://github.com/CleverChuk/ices/blob/master/favicon.ico
-```
