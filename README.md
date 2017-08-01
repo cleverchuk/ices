@@ -21,7 +21,7 @@ Sintering is a process of compacting two or more particle powder into single sol
 ### Result
 <figure>
   <img src="./images/simulation.gif" alt="gif"/>
-  <figcaption><strong>Figure:</strong> Temporal evolution of nanoparticle sintering</figcaption>
+  <figcaption><strong>Figure 1:</strong> Temporal evolution of nanoparticle sintering</figcaption>
 </figure>
  
 
