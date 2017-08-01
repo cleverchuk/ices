@@ -35,6 +35,7 @@ Sintering is a process of compacting two or more particle powder into single sol
 
 ### References
 [1] Qin, R. S., and H. K. Bhadeshia. "Phase Field Method." Review. n.d.: n. pag. Web. 20 May 2017.
+
 [2] Wang, Yu U. “Computer Modeling and Simulation of Solid-State Sintering: A Phase Field Approach.” Acta Materialia, vol. 54, no. 4, 9 Dec. 2005, pp. 953–961. ELSEVIER, Science Direct, doi:10.1016/j.actamat.2005.10.032.
 
 # Code Blocks
