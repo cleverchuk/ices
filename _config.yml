@@ -1,7 +1,5 @@
 theme: jekyll-theme-merlot
 title: Phase Field Modelling
-features:
-  favicon: true
 favicon:
-  use_default: false
-
+  URL:
+   - https://github.com/CleverChuk/ices/blob/master/favicon.ico
