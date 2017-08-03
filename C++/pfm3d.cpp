@@ -547,7 +547,7 @@ int main(int argc, char *const argv[])
 	con.deltaT = 0.0001;
 	con.vapdif = 0.0;
 	con.Cgbe = 7.0;
-
+// these logic sections extracts the commandline arguments
 	if (argc == 5)
 	{
 		finalt = strtod(argv[1], NULL);
