@@ -525,7 +525,7 @@ int main(int argc, char *const argv[])
 	myfile1.open("3p0.txt");
 	myfile2.open("sum rho and eta.txt");
 
-	static bool writeonce = true; // making sure that combination heading is written once
+	bool writeonce = true; // making sure that combination heading is written once
 
 	//assigning values
 
