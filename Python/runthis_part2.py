@@ -11,7 +11,7 @@ cmd = ["./allcombinations","15","10"]
 params = [0,1,2,3,4,5,6,7]
 
 # sample size
-NUM = 8
+NUM = len(params)
 
 def buildCmd(args):
 	"""
