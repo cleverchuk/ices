@@ -8,9 +8,9 @@ import subprocess
 class GUI(Tk):
    
     
-    def __init__(self, *args, **kwargs):
-        Tk.__init__(self, *args, **kwargs)
-        self.bin = "./"+args[0]
+    def __init__(self, binary):
+        Tk.__init__(self)
+        self.bin = "./"+binary
         # value holders
         self.A = IntVar()
         self.B = IntVar()
@@ -96,11 +96,7 @@ class GUI(Tk):
                     
 
 if __name__ == "__main__":
-    app = GUI("binary") # Enter the name of the binary in the parenthesis
-    app.geometry("300x250")
+    app = GUI("combinations") # Enter the name of the binary in the parenthesis
+    app.geometry("350x250")
     app.title("Parameter search App")
     app.mainloop()
-        
-
-        
-
