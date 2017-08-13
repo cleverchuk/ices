@@ -73,5 +73,5 @@ def | **readsingle**(file, offset = 0, ndata = 44, dtype='d')<br/>`Reads ndata  
 def | **process**(rho, eta)<br/>`Returns the element by element  product of two vectors.`
 def | **writable**(filename, writtable)<br/>`Writes writtable data to file with name filename.`
 def | **readable**(filename)<br/>`Reads data from file with name filename`
-def | **multijob**(fname)<br/>`Multiple process job`
+def | **multijob**(fname)<br/>`Multiple process job. fname is a single job`
 def | **buildCmd**(args)<br/>`uses args to build a command`
