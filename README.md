@@ -74,4 +74,4 @@ def | **process**(rho, eta)<br/>`Returns the element by element  product of two 
 def | **writable**(filename, writtable)<br/>`Writes writtable data to file with name filename.`
 def | **readable**(filename)<br/>`Reads data from file with name filename`
 def | **multijob**(fname)<br/>`Multiple process job`
-def | **buildCmd**(args)<br/>`Builds the command`
+def | **buildCmd**(args)<br/>`Builds a command using args`
