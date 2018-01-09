@@ -43,8 +43,8 @@ Sintering is a process of compacting two or more particle powder into single sol
 [2] Wang, Yu U. “Computer Modeling and Simulation of Solid-State Sintering: A Phase Field Approach.” Acta Materialia, vol. 54, no. 4, 9 Dec. 2005, pp. 953–961. ELSEVIER, Science Direct, doi:10.1016/j.actamat.2005.10.032.
 
 # Code Blocks
-#### Simulation & Parameter Search
-The simulation program was written by **Georgina Obehi Dibua** in C++. I added some routines to make it work for the purpose of parameter value search. The following table has information about the added routines.
+#### Simulation & Parameter Estimation
+The simulation program was written by **Georgina Obehi Dibua** in C++. I added some routines to make it work for the purpose of parameter value Estimation. The following table has information about the added routines I developed to achieve my goal.
 
 Modifier | Method and Description
 --- | --- 
@@ -55,7 +55,7 @@ Modifier | Method and Description
 **bool** | **modify**(const double* sumrho, double* param, double* lowerbound, double* upperbound, const double* maximum, double* t, const int master = 0)<br/>`Searches for the maximum parameter value`
 
 #### Visualization
-Visualization involved reading the data and plotting it. It was written in Python using Matplotlib(Could have used VTK). The following table has information about the functions.
+Visualization involved reading the data and plotting it. It was written in Python using Matplotlib(Could have used VTK). The following table has information about the functions I wrote to get the job done.
 
 
 Modifier |Method and Description
